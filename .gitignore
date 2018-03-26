@@ -1,0 +1,15 @@
+/Library
+/Temp
+Builds/Android/MiniGameTests.apk
+Assets/Plugins/Android.meta
+Assets/Materials/TempMaterial.mat.meta
+Assets/Plugins/Android/AndroidManifest.xml.meta
+Assets/Plugins/Android/AndroidManifest.xml
+Assets/Materials/TempMaterial.mat
+.vs/MiniGameTests/v15/Server/sqlite3/storage.ide-wal
+.vs/MiniGameTests/v15/Server/sqlite3/storage.ide-shm
+.vs/MiniGameTests/v15/Server/sqlite3/storage.ide
+.vs/MiniGameTests/v15/Server/sqlite3/db.lock
+.vs/MiniGameTests/v15/.suo
+Builds/
+.vs/
