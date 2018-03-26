@@ -312,6 +312,7 @@
     <Compile Include="Assets\Scripts\Controller.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\PlayAgainButton.cs" />
+    <Compile Include="Assets\Scripts\RayCaster.cs" />
     <Compile Include="Assets\Scripts\RollaBallController.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
   </ItemGroup>
