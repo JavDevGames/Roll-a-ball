@@ -113,11 +113,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &74739788 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 89318044}
 --- !u!1001 &89318044
 Prefab:
   m_ObjectHideFlags: 0
@@ -177,11 +172,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4126733683174152, guid: b3ac51acaa339174ead4d8942fb656d4,
     type: 2}
   m_PrefabInternal: {fileID: 89318044}
---- !u!1 &97813785 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 286139983}
 --- !u!1 &180199270
 GameObject:
   m_ObjectHideFlags: 0
@@ -301,11 +291,6 @@ MonoBehaviour:
   winText: {fileID: 1415830661}
   winTextBG: {fileID: 1996491334}
   resetButton: {fileID: 1514361878}
---- !u!1 &234968017 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 2144930839}
 --- !u!4 &234968023 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4126733683174152, guid: b3ac51acaa339174ead4d8942fb656d4,
@@ -429,11 +414,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4126733683174152, guid: b3ac51acaa339174ead4d8942fb656d4,
     type: 2}
   m_PrefabInternal: {fileID: 299484190}
---- !u!1 &344074026 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 582500376}
 --- !u!1 &396912970
 GameObject:
   m_ObjectHideFlags: 0
@@ -604,6 +584,47 @@ Mesh:
   m_BakedConvexCollisionMesh: 
   m_BakedTriangleCollisionMesh: 
   m_MeshOptimized: 0
+--- !u!1 &425795517
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 425795519}
+  - component: {fileID: 425795518}
+  m_Layer: 0
+  m_Name: LevelController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &425795518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 425795517}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7a3796ccabd6d4fa13e8c4f73299d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playAgain: {fileID: 1514361881}
+--- !u!4 &425795519
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 425795517}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 46.91722, y: -1.0551223, z: 52.846886}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &454840604
 GameObject:
   m_ObjectHideFlags: 0
@@ -894,11 +915,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!1 &623497622 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 1703837735}
 --- !u!1001 &812384465
 Prefab:
   m_ObjectHideFlags: 0
@@ -956,11 +972,6 @@ Prefab:
 --- !u!4 &812384466 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4126733683174152, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 812384465}
---- !u!1 &861127654 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
     type: 2}
   m_PrefabInternal: {fileID: 812384465}
 --- !u!1001 &909197922
@@ -1087,11 +1098,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1 &954616691 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 1671557397}
 --- !u!1 &1165560382
 GameObject:
   m_ObjectHideFlags: 0
@@ -1154,16 +1160,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1263777930 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 299484190}
---- !u!1 &1379206504 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 1525949672}
 --- !u!1 &1415830659
 GameObject:
   m_ObjectHideFlags: 0
@@ -1332,16 +1328,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 180199270}
---- !u!1 &1476554952 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 909197922}
---- !u!1 &1486684539 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 561127747}
 --- !u!1001 &1502669990
 Prefab:
   m_ObjectHideFlags: 0
@@ -1525,19 +1511,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 180199276}
-  pickups:
-  - {fileID: 234968017}
-  - {fileID: 1486684539}
-  - {fileID: 861127654}
-  - {fileID: 344074026}
-  - {fileID: 1852203467}
-  - {fileID: 623497622}
-  - {fileID: 74739788}
-  - {fileID: 1379206504}
-  - {fileID: 1476554952}
-  - {fileID: 97813785}
-  - {fileID: 1263777930}
-  - {fileID: 954616691}
 --- !u!1001 &1525949672
 Prefab:
   m_ObjectHideFlags: 0
@@ -1789,11 +1762,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1829817278}
---- !u!1 &1852203467 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1395066874741180, guid: b3ac51acaa339174ead4d8942fb656d4,
-    type: 2}
-  m_PrefabInternal: {fileID: 1502669990}
 --- !u!1 &1927244103
 GameObject:
   m_ObjectHideFlags: 0

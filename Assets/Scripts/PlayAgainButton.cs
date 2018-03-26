@@ -9,20 +9,19 @@ public class PlayAgainButton : MonoBehaviour
     public RollaBallController player;
     private Button button;
 
-    public GameObject[] pickups;
+    private GameObject[] pickups;
+    
+    public void SetPickUps(GameObject[] levelPickUps)
+    {
+        pickups = levelPickUps;
+    }
 
-    // Use this for initialization
     void Start ()
     {
         button = GetComponent<Button>();
         button.onClick.AddListener(Click);
-	}
-	
-	// Update is called once per frame
-	void Update ()
-    {
-		
-	}
+    }
+    
 
     public void Click()
     {
