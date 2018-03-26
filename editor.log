@@ -3628,3 +3628,424 @@ Total: 6.818057 ms (FindLiveObjects: 1.223440 ms CreateObjectMapping: 0.040020 m
 [00:00:00] Enlighten: Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.05s wallclock)
 [00:00:00] Enlighten: Precompute took 0.560153 seconds.
 Enlighten scene contents:   1 geometries.   1 instances.   1 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+
+Packing sprites:
+[     81 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[     81 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 1.32 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.495 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0430698s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.479255 ms 
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.460733 ms 
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3585.
+Total: 7.086625 ms (FindLiveObjects: 1.260153 ms CreateObjectMapping: 0.040020 ms MarkObjects: 4.771052 ms  DeleteObjects: 1.014737 ms)
+
+[00:00:00] Enlighten: Precompute started.
+<RI> Initialized touch support.
+[00:00:00] Enlighten: Finished 1 Create Geometry job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Finished 1 Create System job (0.01s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:00] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Finished 1 Clustering job (0.12s execute, 0.00s integrate, 0.16s wallclock)
+[00:00:00] Enlighten: Finished 1 Visibility job (0.04s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:00] Enlighten: Finished 1 Light Transport job (0.07s execute, 0.00s integrate, 0.11s wallclock)
+[00:00:00] Enlighten: Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Precompute took 0.662352 seconds.
+Enlighten scene contents:   1 geometries.   1 instances.   1 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+<RI> Initialized touch support.
+
+Packing sprites:
+[     81 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[     81 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.494 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0424348s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.469663 ms 
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.464371 ms 
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3589.
+Total: 6.844847 ms (FindLiveObjects: 1.207564 ms CreateObjectMapping: 0.040682 ms MarkObjects: 4.608654 ms  DeleteObjects: 0.986954 ms)
+
+[00:00:00] Enlighten: Precompute started.
+<RI> Initialized touch support.
+[00:00:00] Enlighten: Finished 1 Create Geometry job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:00] Enlighten: Finished 1 Create System job (0.01s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:00] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Finished 1 Clustering job (0.09s execute, 0.00s integrate, 0.10s wallclock)
+[00:00:00] Enlighten: Finished 1 Visibility job (0.06s execute, 0.00s integrate, 0.11s wallclock)
+[00:00:00] Enlighten: Finished 1 Light Transport job (0.07s execute, 0.01s integrate, 0.11s wallclock)
+[00:00:00] Enlighten: Finished 1 Tetrahedralize Probes job (0.01s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Precompute took 0.643102 seconds.
+Enlighten scene contents:   1 geometries.   1 instances.   1 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0.001 seconds
+  file open: 0.000 seconds (2 files)
+  file read: 0.000 seconds (0.001 MB)
+  hash: 0.000 seconds
+----- Compute hash(es) for 1 asset(s).
+
+Refresh: elapses 0.058277 seconds
+Updating Assets/Scripts/PlayAgainButton.cs - GUID: 60dcca88cab7c30469a4eb9259c50ae4...
+ done. [Time: 79.975074 ms] 
+Refreshing native plugins compatible for Editor in 4.47 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+
+----- Total AssetImport time: 0.215497s, AssetImport time: 0.147428s, Asset hashing: 0.000670s [1.1 KB, 1.544822 mb/s]
+
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Symbols will be read from Temp\Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 4 milliseconds
+Pass: 1 took 38 milliseconds
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007469 seconds (Nothing changed)
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+Reloading assemblies after finishing script compilation.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 0.56 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+
+----- Total AssetImport time: 0.091465s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+- Completed reload, in  1.774 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0505391s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0.000 seconds
+  file open: 0.000 seconds (2 files)
+  file read: 0.000 seconds (0.001 MB)
+  hash: 0.000 seconds
+----- Compute hash(es) for 1 asset(s).
+----- Asset named Assets/Scripts/PlayAgainButton.cs is skipped as no actual change.
+
+Refresh: elapses 0.058324 seconds (Nothing changed)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+
+----- Total AssetImport time: 0.059360s, AssetImport time: 0.000000s, Asset hashing: 0.000602s [1.1 KB, 1.720524 mb/s]
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007462 seconds (Nothing changed)
+
+Packing sprites:
+[     81 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[     81 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.22 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.485 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.042868s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.469332 ms 
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.486862 ms 
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3596.
+Total: 7.705786 ms (FindLiveObjects: 1.326633 ms CreateObjectMapping: 0.042335 ms MarkObjects: 5.298266 ms  DeleteObjects: 1.037228 ms)
+
+[00:00:00] Enlighten: Precompute started.
+[00:00:00] Enlighten: Finished 1 Create Geometry job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.02s wallclock)
+[00:00:00] Enlighten: Finished 1 Create System job (0.01s execute, 0.00s integrate, 0.31s wallclock)
+[00:00:00] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.31s wallclock)
+[00:00:01] Enlighten: Finished 1 Clustering job (0.11s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:01] Enlighten: Finished 1 Visibility job (0.04s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:01] Enlighten: Finished 1 Light Transport job (0.10s execute, 0.01s integrate, 0.34s wallclock)
+[00:00:02] Enlighten: Finished 1 Tetrahedralize Probes job (0.01s execute, 0.00s integrate, 0.30s wallclock)
+[00:00:02] Enlighten: Precompute took 2.020073 seconds.
+Enlighten scene contents:   1 geometries.   1 instances.   1 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0.000 seconds
+  file open: 0.000 seconds (2 files)
+  file read: 0.000 seconds (0.001 MB)
+  hash: 0.000 seconds
+----- Compute hash(es) for 1 asset(s).
+
+Refresh: elapses 0.083262 seconds
+Updating Assets/Scripts/PlayAgainButton.cs - GUID: 60dcca88cab7c30469a4eb9259c50ae4...
+ done. [Time: 71.408017 ms] 
+Refreshing native plugins compatible for Editor in 4.57 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.19 ms.
+
+----- Total AssetImport time: 0.202866s, AssetImport time: 0.128752s, Asset hashing: 0.000632s [1.1 KB, 1.685366 mb/s]
+
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Symbols will be read from Temp\Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 4 milliseconds
+Pass: 1 took 48 milliseconds
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+
+Packing sprites:
+[     81 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[     81 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.688 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0426176s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.724009 ms 
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.466025 ms 
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.7 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3600.
+Total: 7.172950 ms (FindLiveObjects: 1.345817 ms CreateObjectMapping: 0.041012 ms MarkObjects: 4.828271 ms  DeleteObjects: 0.956194 ms)
+
+[00:00:00] Enlighten: Precompute started.
+[00:00:00] Enlighten: Finished 1 Create Geometry job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:00] Enlighten: Finished 1 Create System job (0.01s execute, 0.00s integrate, 0.31s wallclock)
+[00:00:01] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:01] Enlighten: Finished 1 Clustering job (0.14s execute, 0.00s integrate, 0.31s wallclock)
+[00:00:01] Enlighten: Finished 1 Visibility job (0.12s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:02] Enlighten: Finished 1 Light Transport job (0.10s execute, 0.01s integrate, 0.32s wallclock)
+[00:00:02] Enlighten: Finished 1 Tetrahedralize Probes job (0.01s execute, 0.00s integrate, 0.30s wallclock)
+[00:00:02] Enlighten: Precompute took 2.292243 seconds.
+Enlighten scene contents:   1 geometries.   1 instances.   1 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007937 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006890 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0.000 seconds
+  file open: 0.000 seconds (2 files)
+  file read: 0.000 seconds (0.001 MB)
+  hash: 0.000 seconds
+----- Compute hash(es) for 1 asset(s).
+
+Refresh: elapses 0.053663 seconds
+Updating Assets/Scripts/PlayAgainButton.cs - GUID: 60dcca88cab7c30469a4eb9259c50ae4...
+ done. [Time: 73.763611 ms] 
+Refreshing native plugins compatible for Editor in 4.50 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+
+----- Total AssetImport time: 0.190476s, AssetImport time: 0.128551s, Asset hashing: 0.000582s [1.0 KB, 1.679243 mb/s]
+
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007155 seconds (Nothing changed)
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Symbols will be read from Temp\Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 4 milliseconds
+Pass: 1 took 38 milliseconds
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+Reloading assemblies after finishing script compilation.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.22 ms.
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+
+----- Total AssetImport time: 0.095418s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+- Completed reload, in  1.777 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.044531s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Updating Assets/Scripts/Controller.cs - GUID: db7a3796ccabd6d4fa13e8c4f73299d3...
+----- Compute hash for Assets/Scripts/Controller.cs.
+ done. [Time: 65.178032 ms] 
+Refreshing native plugins compatible for Editor in 0.57 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+
+----- Total AssetImport time: 0.294265s, AssetImport time: 0.253257s, Asset hashing: 0.000240s [0.5 KB, 2.168498 mb/s]
+
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Symbols will be read from Temp\Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 4 milliseconds
+Pass: 1 took 38 milliseconds
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+Reloading assemblies after finishing script compilation.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.53 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+
+----- Total AssetImport time: 0.090968s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+- Completed reload, in  1.808 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0430671s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+EditorHelper: Attempting to use Visual Studio.
+EditorHelper: Looking for a running Visual Studio session.
+EditorHelper: Checking for Visual Studio installations.
+EditorHelper: Searching for Visual Studio 2008 installation using the VS90COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2008 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2008 installation found at all
+EditorHelper: Searching for Visual Studio 2010 installation using the VS100COMNTOOLS environment variable.
+EditorHelper: Found a Visual Studio 2010 installation here: c:/program files (x86)/microsoft visual studio 10.0/common7/
+EditorHelper: Searching for Visual Studio 2012 installation using the VS110COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2012 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2012 installation found at all
+EditorHelper: Searching for Visual Studio 2013 installation using the VS120COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 2013 installation found, trying with the registry.
+EditorHelper: No Visual Studio 2013 installation found at all
+EditorHelper: Searching for Visual Studio 2015 installation using the VS140COMNTOOLS environment variable.
+EditorHelper: Found a Visual Studio 2015 installation here: c:/program files (x86)/microsoft visual studio 14.0/common7/
+EditorHelper: Searching for Visual Studio 15 installation using the VS150COMNTOOLS environment variable.
+EditorHelper: No Visual Studio 15 installation found, trying with the registry.
+EditorHelper: No Visual Studio 15 installation found at all
+EditorHelper: Your preferences indicate Visual Studio should be found here: c:/program files (x86)/microsoft visual studio/2017/community/common7/ide/devenv.exe
+EditorHelper: We did not find a matching Visual Studio installation. We will look for a default Visual Studio installation.
+EditorHelper: We found for a running Visual Studio session with the solution open.
+EditorHelper: We're not sure which version of Visual Studio was requested in the user preferences. We will use this running session.
+EditorHelper: Using the existing Visual Studio session.
+EditorHelper: Getting operations API from the Visual Studio session.
+EditorHelper: Waiting for the Visual Studio session to open the file: C:\Projects\BulletProof\Roll-a-ball\Assets\Scripts\Controller.cs.
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0.001 seconds
+  file open: 0.000 seconds (2 files)
+  file read: 0.000 seconds (0.001 MB)
+  hash: 0.000 seconds
+----- Compute hash(es) for 1 asset(s).
+
+Refresh: elapses 0.051672 seconds
+Updating Assets/Scripts/Controller.cs - GUID: db7a3796ccabd6d4fa13e8c4f73299d3...
+ done. [Time: 64.335614 ms] 
+Refreshing native plugins compatible for Editor in 0.53 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+
+----- Total AssetImport time: 0.179179s, AssetImport time: 0.126207s, Asset hashing: 0.000748s [0.7 KB, 0.851126 mb/s]
+
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+Symbols will be read from Temp\Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 4 milliseconds
+Pass: 1 took 38 milliseconds
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+Reloading assemblies after finishing script compilation.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.54 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.22 ms.
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 0.53 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+
+----- Total AssetImport time: 0.091534s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+- Completed reload, in  1.784 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0430013s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+
+Packing sprites:
+[     81 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[     81 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.53 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.470 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0421969s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.464040 ms 
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.475947 ms 
+Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.5 MB.
+System memory in use after: 80.7 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 3616.
+Total: 7.531482 ms (FindLiveObjects: 1.261145 ms CreateObjectMapping: 0.041343 ms MarkObjects: 5.229470 ms  DeleteObjects: 0.998530 ms)
+
+[00:00:00] Enlighten: Precompute started.
+[00:00:00] Enlighten: Finished 1 Create Geometry job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:00] Enlighten: Finished 1 Create System job (0.01s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+
+Hashing assets ... 0.001 seconds
+  file open: 0.000 seconds (4 files)
+  file read: 0.000 seconds (0.394 MB)
+  hash: 0.001 seconds
+Updating Assets/Scenes/Scene01.unity - GUID: 02ab466166978634ca8e2b1a139b7fc3...
+ done. [Time: 18.538473 ms] 
+Updating Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset - GUID: f62312749678636498a66f3ee4b5439a...
+ done. [Time: 9.622476 ms] 
+Refreshing native plugins compatible for Editor in 3.70 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+
+----- Total AssetImport time: 0.129714s, AssetImport time: 0.054952s, Asset hashing: 0.001260s [403.0 KB, 312.376251 mb/s]
+
+
+Hashing assets ... 0.001 seconds
+  file open: 0.000 seconds (2 files)
+  file read: 0.000 seconds (0.391 MB)
+  hash: 0.001 seconds
+Updating Assets/Scenes/Scene01.unity - GUID: 02ab466166978634ca8e2b1a139b7fc3...
+ done. [Time: 7.894313 ms] 
+Refreshing native plugins compatible for Editor in 0.55 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+
+----- Total AssetImport time: 0.104287s, AssetImport time: 0.063396s, Asset hashing: 0.001049s [400.6 KB, 372.916840 mb/s]
+
+[00:00:00] Enlighten: Finished 1 Clustering job (0.05s execute, 0.00s integrate, 0.44s wallclock)
+[00:00:00] Enlighten: Finished 1 Visibility job (0.04s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Finished 1 Light Transport job (0.04s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:01] Enlighten: Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:01] Enlighten: Precompute took 0.864761 seconds.
+Enlighten scene contents:   1 geometries.   1 instances.   1 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.

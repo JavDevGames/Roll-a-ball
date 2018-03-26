@@ -17,6 +17,7 @@ public class RollaBallController : MonoBehaviour
     public Text winTextBG;
 
     public Button resetButton;
+    public float jumpSpeed;
 
     public void Reset()
     {
@@ -39,10 +40,18 @@ public class RollaBallController : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
+        float moveVertical = Input.GetKey(KeyCode.W) ? 1.0f : 0.0f;
+        moveVertical = Input.GetKey(KeyCode.S) ? -1.0f : moveVertical;
 
-        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+        float jump = Input.GetKey(KeyCode.Space) ? 1.0f : 0.0f;
+        jump *= jumpSpeed;
+        //jump *= Time.deltaTime;
+
+        Camera cam = Camera.main;
+
+        Vector3 movement = cam.transform.forward * moveVertical;
+
+        movement.y += jump;
          
         rigidBody.AddForce(movement * speed);
 	}
