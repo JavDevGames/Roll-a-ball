@@ -20844,3 +20844,302 @@ Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Load scene 'Temp/__Backupscenes/0.backup' time: 0.503399 ms 
 Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.012036 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.015826 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.014343 seconds (Nothing changed)
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.508030 ms 
+Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 210.9 MB.
+System memory in use after: 211.0 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 4025.
+Total: 12.659412 ms (FindLiveObjects: 3.451364 ms CreateObjectMapping: 0.053912 ms MarkObjects: 5.868477 ms  DeleteObjects: 3.284997 ms)
+
+[00:00:00] Enlighten: Precompute started.
+[00:00:00] Enlighten: Finished 2 Create Geometry jobs (0.00s execute, 0.00s integrate, 0.34s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:01] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:01] Enlighten: Finished 2 Create System jobs (0.08s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:01] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:02] Enlighten: Finished 2 Clustering jobs (0.40s execute, 0.00s integrate, 0.30s wallclock)
+[00:00:02] Enlighten: Finished 2 Visibility jobs (0.13s execute, 0.01s integrate, 0.32s wallclock)
+[00:00:03] Enlighten: Finished 2 Light Transport jobs (0.18s execute, 0.06s integrate, 0.66s wallclock)
+[00:00:03] Enlighten: Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.26s wallclock)
+[00:00:03] Enlighten: Precompute took 3.170472 seconds.
+Enlighten scene contents:   2 geometries.   2 instances.   2 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+<RI> Initialized touch support.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006962 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.012549 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.016805 seconds (Nothing changed)
+
+Packing sprites:
+[    212 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[    212 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 1.43 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.013 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.044192s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.501415 ms 
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.010433 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.018999 seconds (Nothing changed)
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.512329 ms 
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 210.8 MB.
+System memory in use after: 211.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4028.
+Total: 12.658420 ms (FindLiveObjects: 3.408367 ms CreateObjectMapping: 0.042666 ms MarkObjects: 5.801665 ms  DeleteObjects: 3.405059 ms)
+
+[00:00:00] Enlighten: Precompute started.
+[00:00:00] Enlighten: Finished 2 Create Geometry jobs (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Finished 2 Create System jobs (0.07s execute, 0.00s integrate, 0.11s wallclock)
+[00:00:00] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.06s wallclock)
+<RI> Initialized touch support.
+[00:00:00] Enlighten: Finished 2 Clustering jobs (0.26s execute, 0.00s integrate, 0.21s wallclock)
+[00:00:00] Enlighten: Finished 2 Visibility jobs (0.08s execute, 0.00s integrate, 0.05s wallclock)
+[00:00:00] Enlighten: Finished 2 Light Transport jobs (0.08s execute, 0.03s integrate, 0.08s wallclock)
+[00:00:01] Enlighten: Finished 1 Tetrahedralize Probes job (0.01s execute, 0.00s integrate, 0.02s wallclock)
+[00:00:01] Enlighten: Precompute took 0.687149 seconds.
+Enlighten scene contents:   2 geometries.   2 instances.   2 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.024065 seconds (Nothing changed)
+
+Packing sprites:
+[    212 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[    212 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 1.39 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.015 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0445694s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.518283 ms 
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.013249 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007092 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.009694 seconds (Nothing changed)
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.520929 ms 
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.1 MB.
+System memory in use after: 211.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4031.
+Total: 13.300734 ms (FindLiveObjects: 3.782774 ms CreateObjectMapping: 0.042666 ms MarkObjects: 5.930327 ms  DeleteObjects: 3.543974 ms)
+
+[00:00:00] Enlighten: Precompute started.
+[00:00:00] Enlighten: Finished 2 Create Geometry jobs (0.00s execute, 0.00s integrate, 0.05s wallclock)
+
+Packing sprites:
+[    211 MB ]- Skipping packing - Sprite Packer (Legacy) is off.
+[    211 MB ]Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 1.33 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.20 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.009 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.3.1 for Unity v2017.3.1f1
+Registering platform support modules:
+Registered platform support modules in: 0.0444146s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.511999 ms 
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.015140 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.013229 seconds (Nothing changed)
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.511337 ms 
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 210.9 MB.
+System memory in use after: 211.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4034.
+Total: 14.101808 ms (FindLiveObjects: 3.887622 ms CreateObjectMapping: 0.046635 ms MarkObjects: 6.493261 ms  DeleteObjects: 3.672635 ms)
+
+[00:00:00] Enlighten: Finished 2 Create Geometry jobs (0.00s execute, 0.00s integrate, 0.05s wallclock)
+[PathTracer] building lightmap data asset.
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:00] Enlighten: Finished 2 Create System jobs (0.07s execute, 0.00s integrate, 0.11s wallclock)
+[00:00:00] Enlighten: Finished 1 Create SystemAtlas job (0.00s execute, 0.00s integrate, 0.06s wallclock)
+[00:00:00] Enlighten: Finished 2 Clustering jobs (0.25s execute, 0.00s integrate, 0.22s wallclock)
+[00:00:00] Enlighten: Finished 2 Visibility jobs (0.11s execute, 0.00s integrate, 0.11s wallclock)
+[00:00:01] Enlighten: Finished 2 Light Transport jobs (0.11s execute, 0.03s integrate, 0.13s wallclock)
+[00:00:01] Enlighten: Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.02s wallclock)
+[00:00:01] Enlighten: Precompute took 166.918703 seconds.
+Enlighten scene contents:   2 geometries.   2 instances.   2 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.008491 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.012176 seconds (Nothing changed)
+
+Hashing assets ... 0.001 seconds
+  file open: 0.000 seconds (2 files)
+  file read: 0.000 seconds (0.001 MB)
+  hash: 0.000 seconds
+Updating Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset - GUID: f62312749678636498a66f3ee4b5439a...
+ done. [Time: 24.308718 ms] 
+Refreshing native plugins compatible for Editor in 4.67 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+
+----- Total AssetImport time: 0.161166s, AssetImport time: 0.055339s, Asset hashing: 0.000835s [1.0 KB, 1.159063 mb/s]
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007065 seconds (Nothing changed)
+Failed to find Internal-ErrorShader.shader
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:\buildslave\unity\build\Runtime/Misc/ResourceManager.cpp line 1143] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+The resource Internal-ErrorShader.shader could not be loaded from the resource file!
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:\buildslave\unity\build\Runtime/Misc/ResourceManager.cpp line 1170] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+Assertion failed on expression: 'gDefaultShader'
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:/buildslave/unity/build/Runtime/Shaders/Shader.cpp line 168] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+Failed to find Internal-ErrorShader.shader
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:\buildslave\unity\build\Runtime/Misc/ResourceManager.cpp line 1143] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+The resource Internal-ErrorShader.shader could not be loaded from the resource file!
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:\buildslave\unity\build\Runtime/Misc/ResourceManager.cpp line 1170] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+Assertion failed on expression: 'gDefaultShader'
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:/buildslave/unity/build/Runtime/Shaders/Shader.cpp line 168] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+Failed to find Internal-ErrorShader.shader
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:\buildslave\unity\build\Runtime/Misc/ResourceManager.cpp line 1143] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+The resource Internal-ErrorShader.shader could not be loaded from the resource file!
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:\buildslave\unity\build\Runtime/Misc/ResourceManager.cpp line 1170] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+Assertion failed on expression: 'gDefaultShader'
+UnityEngine.Material:Internal_CreateWithShader(Material, Shader)
+UnityEngine.Material:.ctor(Shader) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\ShaderBindings.gen.cs:254)
+ProBuilder2.Common.pb_ElementGraphics:CreateMaterial(Shader, String)
+ProBuilder2.Common.pb_ElementGraphics:Awake()
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:382)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:387)
+ProBuilder2.Common.pb_MonoBehaviourSingleton`1:get_instance()
+ProBuilder2.EditorCommon.pb_Editor:get_graphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateGraphics()
+ProBuilder2.EditorCommon.pb_Editor:UpdateSelection(Boolean)
+ProBuilder2.EditorCommon.pb_Editor:OnDisable()
+
+[C:/buildslave/unity/build/Runtime/Shaders/Shader.cpp line 168] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/ShaderBindings.gen.cs Line: 254)
+
+[Package Manager] Server::Kill -- Server was shutdown
+Cleanup mono
